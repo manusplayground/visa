@@ -5,7 +5,7 @@ Spring boot, JPA application used for making 2 REST endpoints. One for listing l
 
 Appointments can be booked for multiple tiers of a service (tier1 or Tier 2 or Tier 3).
 
-Multiple agents can be serving appointments
+Multiple agents can be serving appointments for the organization
 
 Users can book available appointment slots under certain constraints like:
   - only one slot can be booked at a time
