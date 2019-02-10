@@ -2,7 +2,7 @@
 
 Spring boot, JPA application used for making 2 REST endpoints. One for listing latest available appointment date times and another for booking an available appointment. 
 
-Appointments can be booked for multiple tiers of a service (tier1 or Tier 2 or Tier 3).
+Appointments can be booked for multiple tiers of a service (Tier1 or Tier 2 or Tier 3).
 
 Multiple agents can be serving appointments for the organization
 
