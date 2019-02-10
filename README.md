@@ -1,5 +1,4 @@
-# visa
-VISA Staff Interview Question
+# VISA Staff Interview Question
 
 Spring boot, JPA application used for making 2 REST endpoints. One for listing latest available appointment date times and another for booking an available appointment. 
 
